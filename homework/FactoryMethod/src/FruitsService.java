@@ -6,3 +6,4 @@ public class FruitsService {
         fruits.fruitEaten();
     }
 }
+//test
